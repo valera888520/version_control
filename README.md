@@ -40,6 +40,8 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 
 некоторый текст в ветке md_instruction
 
+конфликт
+
 
 
 
